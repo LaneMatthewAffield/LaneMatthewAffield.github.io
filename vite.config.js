@@ -6,4 +6,5 @@ export default defineConfig({
   plugins: [react(), 
             tailwindcss()
           ],
+  base: '/LaneMatthewAffield.github.io/', // Set the base path for GitHub Pages
 })
